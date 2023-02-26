@@ -4833,7 +4833,7 @@
                 "i18n",
                 "string",
                 "unicode",
-                "utf-8",
+                "UTF-8",
                 "utf8"
             ],
             "support": {
@@ -5358,7 +5358,7 @@
                 "clean",
                 "php",
                 "unicode",
-                "utf-8",
+                "UTF-8",
                 "utf8"
             ],
             "support": {
