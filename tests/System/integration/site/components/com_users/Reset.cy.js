@@ -29,4 +29,3 @@ describe('Test the reset view',() => {
         });
     });
   })
-    
